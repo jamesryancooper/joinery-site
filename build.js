@@ -1,3 +1,5 @@
+//** Build File **//
+
 var Metalsmith    = require('metalsmith'),
     jade          = require('metalsmith-jade'),
     markdown      = require('metalsmith-markdown'),
